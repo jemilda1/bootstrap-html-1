@@ -1,0 +1,78 @@
+
+.main-section{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:80vh;
+    
+    
+}
+
+button{
+    background-color: rgb(185, 27, 27);
+    color: white;
+    font-size: 20px;
+    padding: 5px 30px;
+    border:none;
+}
+.profile{
+    
+    height:250px;
+    border-radius: 50%;
+    box-shadow:-5px 15px rgb(230, 225, 225);
+    width:100%;
+    
+    
+}
+.hero-cen{
+    padding: 50px;
+    
+
+}
+.recent-post-bg{
+    background-color: aquamarine;
+}
+.recent-post-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+}
+.view-all{
+    text-decoration: none;
+}
+.content{
+    display: flex;
+    gap:15px;
+}
+.backpox{
+    background-color: white;
+    margin:15px 0px;
+    padding:20px;
+}
+.featured-box{
+    display:flex;
+    gap:25px;
+}
+.dash-board{
+    display:flex;
+    gap:20px;
+}
+.badge{
+    background-color: rgb(3, 3, 71);
+    border-radius: 40%;
+    padding: 5px;
+}
+.foo-ter{
+    margin:100px 0px;
+    display: flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content:center;
+
+}
+i{
+    font-size:25px;
+    padding:0px 10px;
+}
